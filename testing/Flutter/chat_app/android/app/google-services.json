@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202045607116",
+    "project_id": "open-codeword",
+    "storage_bucket": "open-codeword.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202045607116:android:b332c1ae9baa7935ad8669",
+        "android_client_info": {
+          "package_name": "com.example.codeword"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL74tYRMEXyRmQgBnYSTayTTFSk--cfko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
