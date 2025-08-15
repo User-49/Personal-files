@@ -1,0 +1,9 @@
+/* app/static/style.css */
+body {
+    background-color: #111;
+    color: #f9f3c3;
+    font-family: "Consolas", monospace;
+    text-align: center;
+    padding-top: 100px;
+}
+
